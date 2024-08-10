@@ -1,5 +1,6 @@
-# AbnerLohan_engsw_01
+# Proj01_Eng_SW
 
+Autor: Abner Lohan Caçula Silva
 Meu repositório de Engenharia de Software...
 
 # 1. Descrição do sistema
@@ -10,7 +11,6 @@ Nome da clínica: Zé Pulguinha
 # 2. Diagrama do banco de dados
 
 Colocar aqui o diagrama do banco de dados...
-
 ![]()
 
 # 3. Diagrama de casos de uso
