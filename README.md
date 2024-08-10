@@ -11,7 +11,7 @@ Nome da clínica: Zé Pulguinha
 # 2. Diagrama do banco de dados
 
 Colocar aqui o diagrama do banco de dados...
-![]()
+![imagem de exemplo](https://github.com/AbnerLohan/Abner_Lohan_projeto01_engsw/blob/main/imagens/imagem_teste.png?raw=true)
 
 # 3. Diagrama de casos de uso
 
