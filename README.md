@@ -33,6 +33,75 @@ Nome da clínica: Zé Pulguinha
     
 # 2. Diagrama do banco de dados
 
+```mermaid
+erDiagram
+    CLIENTE ||--o{ ANIMAL : "possui"
+    CLIENTE ||--o{ ATENDIMENTO : "faz"
+    ANIMAL ||--o{ ATENDIMENTO : "participa"
+    ANIMAL }o--|| FICHA : "possui"
+    ANIMAL }o--|| RECEITA : "recebe"
+    ANIMAL ||--o{ HOSPEDAGEM : "é hospedado em"
+    VETERINARIO ||--o{ ATENDIMENTO : "realiza"
+    VETERINARIO ||--o{ ESCALA : "participa"
+    ESCALA ||--o{ PLANTAO : "define"
+    ATENDIMENTO ||--|| RECEITA : "pode gerar"
+
+    CLIENTE {
+        int id
+        string nome
+        string contato
+    }
+    
+    ANIMAL {
+        int id
+        string nome
+        string especie
+        string condicoes
+        string tipoRacao
+        string habitos
+    }
+
+    ATENDIMENTO {
+        int id
+        datetime dataHora
+        string tipo
+    }
+
+    VETERINARIO {
+        int id
+        string nome
+        string especialidade
+    }
+
+    FICHA {
+        int id
+        datetime dataHora
+        string observacoes
+    }
+
+    RECEITA {
+        int id
+        datetime dataHora
+        string descricao
+    }
+
+    ESCALA {
+        int id
+        datetime dataInicio
+        datetime dataFim
+    }
+
+    PLANTAO {
+        int id
+        datetime dataHora
+    }
+
+    HOSPEDAGEM {
+        int id
+        datetime dataInicio
+        datetime dataFim
+    }
+```
 
 # 3. Diagrama de casos de uso
 Colocar aqui o diagrama de casos de uso...
