@@ -109,7 +109,9 @@ Colocar aqui o diagrama de casos de uso...
 
 # 4. Principais telas do sistema
 Colocar aqui a figura das telas do sistema
-![]()
+![cadastro de pet: cachorro](https://github.com/AbnerLohan/Abner_Lohan_projeto01_engsw/blob/main/imagens/cadastro_dog.png)
+
+![cadastro de funcionário: veternário](https://github.com/AbnerLohan/Abner_Lohan_projeto01_engsw/blob/main/imagens/cadastro_vet.png)
 
 # 5. Arquitetura do sistema
 Incluir diagrama do sistema
