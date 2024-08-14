@@ -1,11 +1,8 @@
 # Proj01_Eng_SW
-
 Autor: Abner Lohan Caçula Silva.
-
 Meu repositório de Engenharia de Software...
----
-# 1. Descrição do sistema
 
+# 1. Descrição do sistema
 Nome da clínica: Zé Pulguinha
 
 01. Uma clínica veterinária atende apenas os animais: gatos e cachorros.
@@ -31,20 +28,18 @@ Nome da clínica: Zé Pulguinha
 21. A clínica faz atendimentos também por plantões.
 22. A escala de plantões é definida semanalmente.
 23. A clínica trabalha também com a hospedagem de cães e gatos.
----
+    
 # 2. Diagrama do banco de dados
----
-# 3. Diagrama de casos de uso
 
+
+# 3. Diagrama de casos de uso
 Colocar aqui o diagrama de casos de uso...
 ![]()
----
-# 4. Principais telas do sistema
 
+# 4. Principais telas do sistema
 Colocar aqui a figura das telas do sistema
 ![]()
----
-# 5. Arquitetura do sistema
 
+# 5. Arquitetura do sistema
 Incluir diagrama do sistema
 ![]()
