@@ -2,7 +2,7 @@
 Autor: Abner Lohan Caçula Silva.
 
 
-Meu repositório de Engenharia de Software...
+Meu repositório de Engenharia de Software.
 
 # 1. Descrição do sistema
 Nome da clínica: Zé Pulguinha
