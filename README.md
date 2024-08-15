@@ -109,10 +109,16 @@ erDiagram
 
 # 4. Principais telas do sistema
 
-![cadastro de pet: cachorro](https://github.com/AbnerLohan/Abner_Lohan_projeto01_engsw/blob/main/imagens/cadastro_dog.png)
+![Imagem 1](https://github.com/AbnerLohan/Abner_Lohan_projeto01_engsw/blob/main/imagens/Captura%20de%20tela%202024-08-14%20215714.png)
 
-![cadastro de funcionário: veternário](https://github.com/AbnerLohan/Abner_Lohan_projeto01_engsw/blob/main/imagens/cadastro_vet.png)
+![Imagem 2](https://github.com/AbnerLohan/Abner_Lohan_projeto01_engsw/blob/main/imagens/Captura%20de%20tela%202024-08-14%20215730.png)
+
+![Imagem 3](https://github.com/AbnerLohan/Abner_Lohan_projeto01_engsw/blob/main/imagens/Captura%20de%20tela%202024-08-14%20215747.png)
+
+![Imagem 4](https://github.com/AbnerLohan/Abner_Lohan_projeto01_engsw/blob/main/imagens/Captura%20de%20tela%202024-08-14%20215810.png)
+
+![Imagem 5](https://github.com/AbnerLohan/Abner_Lohan_projeto01_engsw/blob/main/imagens/Captura%20de%20tela%202024-08-14%20215827.png)
 
 # 5. Arquitetura do sistema
-Incluir diagrama do sistema
+
 ![]()
