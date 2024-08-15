@@ -121,4 +121,4 @@ erDiagram
 
 # 5. Arquitetura do sistema
 
-![]()
+![ENGSW](https://github.com/AbnerLohan/Abner_Lohan_projeto01_engsw/blob/main/imagens/EGNSW.png)
