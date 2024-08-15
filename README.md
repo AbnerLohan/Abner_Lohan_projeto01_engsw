@@ -105,7 +105,7 @@ erDiagram
 
 # 3. Diagrama de casos de uso
 
-![Caso de uso: cadastros](https://github.com/AbnerLohan/Abner_Lohan_projeto01_engsw/blob/main/imagens/usecase1.png)
+![Usecase](https://github.com/AbnerLohan/Abner_Lohan_projeto01_engsw/blob/main/imagens/Usecase.png)
 
 # 4. Principais telas do sistema
 
