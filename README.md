@@ -120,5 +120,25 @@ erDiagram
 ![Imagem 5](https://github.com/AbnerLohan/Abner_Lohan_projeto01_engsw/blob/main/imagens/Captura%20de%20tela%202024-08-14%20215827.png)
 
 # 5. Arquitetura do sistema
+```mermaid
+flowchart TB
+    subgraph Cliente
+        CW[Cliente Web]
+    end
 
-![ENGSW](https://github.com/AbnerLohan/Abner_Lohan_projeto01_engsw/blob/main/imagens/EGNSW.png)
+    subgraph Servidor_Web
+        SW[Servidor Web]
+        PHP[Aplicação PHP]
+    end
+
+    subgraph Banco_Dados
+        DB[Servidor de Banco de Dados]
+    end
+
+    CW -- Requisição HTTP --> SW
+    SW -- Processamento --> PHP
+    PHP -- Consulta/Inserção/Atualização --> DB
+    DB -- Resposta --> PHP
+    PHP -- Resposta HTTP --> SW
+    SW -- Resposta HTTP --> CW
+```
